@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-pytorch-core": "0.2.2",
+    "react-native-safe-area-context": "4.3.1"
+  }
+}
